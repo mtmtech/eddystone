@@ -82,7 +82,7 @@ unsigned char adv_service_data_hdr[] =
 /* Initialise Uri to http://eddystone.org for a new beacon (using compression) */
 unsigned char initial_uri[] =
 {
-    0x02, 'p', 'h', 'y', 's', 'i', 'c', 'a', 'l', '-', 'w', 'e', 'b', 0x08 
+    0x02, 'w', 'p', '.', 'm', 'e', '/', '6', 'Z', '0', 'a', 'T' 
         };
     
 /* Esurl Beacon Adv TX calibration for packets Low to high */
