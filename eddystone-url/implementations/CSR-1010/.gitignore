@@ -1,0 +1,4 @@
+depend_Release_CSR101x_A05
+flags.configuration
+*.elf
+*.mak
