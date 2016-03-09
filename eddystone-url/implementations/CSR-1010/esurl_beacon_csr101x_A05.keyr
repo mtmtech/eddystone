@@ -1,4 +1,4 @@
- >DECIMAL_CS_VERSION=67
+ >DECIMAL_CS_VERSION=83
 
 // (0001) - Bluetooth device address
 &BDADDR = 1510 5b00 0002
